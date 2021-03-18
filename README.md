@@ -8,7 +8,7 @@ as that term is a word that comes often in search engines its always clever to r
 
 
 ## Project state
-We are Working on this while we are working on our other Projects Like open-pwa because of shared code and functionality we are currntly building up roadmaps and start to tackle the issues. We have not Affilates that help us and we Plan to do it all Open Source and for Free. As we think that is clear the future.
+We are Working on this while we are working on our other Projects Like https://github.com/open-pwa/open-pwa because of shared code and functionality we are currntly building up roadmaps and start to tackle the issues. We have not Affilates that help us and we Plan to do it all Open Source and for Free. As we think that is clear the future.
 
 ## Why?
 It solves a lot of problems that exist in the current Internet(HTML+JS+CSS) World. HTML and all what followed got build as there was no alternativ with the WASM Spec we finally can Create a New kind of Platform and Internet at a Whole. Where All this listed Problems are addressed.
@@ -26,4 +26,4 @@ It solves a lot of problems that exist in the current Internet(HTML+JS+CSS) Worl
 
 ## How?
 
-https://github.com/was-protocoö
+https://github.com/was-protocol/was-protocol
