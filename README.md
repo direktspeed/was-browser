@@ -1,4 +1,4 @@
-# Project WAS? was was-b wasb
+# Project WAS? was was-b wasb wasm-browser
 Its a Web Browser Like Technology that does not work with HTML or a Markup Language it exposes a window api that you can use via WASM.
 it is the reference implementation of the https://github.com/was-protocol which is based on WASI and diffrent Transport layer Protocols.
 
@@ -27,3 +27,19 @@ It solves a lot of problems that exist in the current Internet(HTML+JS+CSS) Worl
 ## How?
 
 https://github.com/was-protocol/was-protocol
+
+
+## Offering diffrent Interfaces
+- [ ] SDL 2+ mixer ttf
+- [ ] x11 Pulse Audio
+
+## Define a Uniq API that Abstracts our Underlaying Graphics, Sound, ...Device Capabilitys.
+
+
+## Problems
+We want to design a secure Platform as new way to consume Applications and Content so we need to define Something similar to a browser but more Secure.
+
+- [ ] TaskManager
+- [ ] WindowManager
+- [ ] Firewall
+- [ ] Most Best Unikernels some how
