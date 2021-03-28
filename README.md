@@ -43,3 +43,9 @@ We want to design a secure Platform as new way to consume Applications and Conte
 - [ ] WindowManager
 - [ ] Firewall
 - [ ] Most Best Unikernels some how
+
+
+## NWJS PoC's
+nwjs is Chrome relativly Unmodifyed running a NodeJS Extension so that both share the Same V8 Context
+as a migration layer we experiment with diffrent implementations based on NWJS while we try to abstract everything as far as possible
+so that NWJS can later be Replaced by the was-browser or open-pwa
